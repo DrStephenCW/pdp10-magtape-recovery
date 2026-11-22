@@ -1,0 +1,12 @@
+Fri Jan 08 12:22:39 2010
+Maximum block size scanned for is 64K
+Tape density 6250bpi
+
+2-2	HP      88780          (MagTape)
+   Blocks : 8  Block size : 2590  20,720
+<<Filemark 1 >>  Total this file : 20,720
+                 Total this tape : 20,720
+
+<<Filemark 2 >>  Total this file : 0
+              Total this tape : 20,720
+
