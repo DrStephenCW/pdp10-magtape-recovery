@@ -87,7 +87,7 @@ is the block type and RH its length (including that word). The extractor uses:
 File data is the concatenation of each record's `siz` data words from the
 `GF$SOF` record through the `GF$EOF` record.
 
-Tape 4 was written at ISI on TOPS-20, but in this same BACKUP format (device
+Tape 4 was written on UCI's TOPS-20 system, but in this same BACKUP format (device
 names `EO:` and `TS:`, directory `<WILLSON>`), not in DUMPER format. Its three
 save sets overlap, so 102 of its 341 files are exact copies; each was written
 once.

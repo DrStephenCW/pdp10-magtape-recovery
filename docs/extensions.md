@@ -2,7 +2,7 @@
 
 Covers the files decoded from tapes 1, 2 and 4: 1,012 unique files with 100 distinct extensions. Counts are per tape (t1 / t2 / t4). The meanings combine DEC conventions with what was seen inside sample files. Anything marked **(guess)** is an inference, not a known convention.
 
-Tape 2 is the TOPS-10 system at UC Irvine (1975–80). Tape 4 is TOPS-20 at USC Information Sciences Institute (ISI), from accounts named WILLSON (1981). Several files name **Stephen Willson** as author: grad-school essays, the "social impacts" paper, and mail addressed to "Steve" or "WILLSON,S".
+Tape 2 is the TOPS-10 system at UC Irvine (1975–80). Tape 4 is the UCI TOPS-20 system, from accounts named WILLSON (1981). Some of its Ada material came from USC Information Sciences Institute (ISI). Several files name **Stephen Willson** as author: grad-school essays, the "social impacts" paper, and mail addressed to "Steve" or "WILLSON,S".
 
 ## Standard DEC system extensions
 

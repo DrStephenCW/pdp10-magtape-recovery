@@ -5,7 +5,7 @@ _This project was done with Claude Opus 5.5 Medium Effort guided by Stephen Clar
 Six reels of 9-track magnetic tape held Steve Willson's (now Stephen
 Clarke-Willson's) work from UC Irvine Information and Computer Science department (ICS): 
 undergraduate course work on
-the UCI DEC-10, 1981 Ada work on an ISI DEC-20, and his graduate-school Unix
+the UCI DEC-10, 1981 Ada work on the UCI DEC-20, and his graduate-school Unix
 home directory. In January 2010 Bob Chicko of TapeConversions.com
 (Arlington, Texas), a paid tape-reading service, read all six on an HP 88780 drive at
 6,250 bpi. Three of them were Unix tar tapes, and he extracted them. The other
@@ -23,7 +23,7 @@ the tapes are published separately (see [What came off the tapes](#what-came-off
 | 1 | TOPS-20 **DUMPER**, 2,590-byte records | One program, `PS:<ICS>WHO.EXE.1`, saved 16 Mar 1983 | 1 |
 | 2 | TOPS-10 **BACKUP**, 2,720-byte records | 33 save sets from the UCI DEC-10, Apr 1978 to Nov 1981: Pascal and TREEMETA work, Varian V75 microcode, Adventure, AI projects, ICS 145 course files, papers | 771 |
 | 3 | Unix tar | The MH 6.6 mail handler, 1987-88 | 798 |
-| 4 | **BACKUP**, written on TOPS-20 | Three save sets of `<WILLSON>` at ISI, Aug-Sep 1981: Ada grammars, the ADA81-INRIA syntax, BLISS, Scribe documents | 341 (239 unique) |
+| 4 | **BACKUP**, written on TOPS-20 | Three save sets of `<WILLSON>` on the UCI DEC-20, Aug-Sep 1981: Ada grammars (some obtained from USC-ISI), the ADA81-INRIA syntax, BLISS, Scribe documents | 341 (239 unique) |
 | 5 | Unix tar | Ada pretty-printer and parser sources, Nov-Dec 1985 | 48 |
 | 6 | Unix tar | A home directory, Dec 1982 to May 1984: Ada, Arcturus, mail, thesis drafts, the F editor | 1,639 |
 
@@ -147,7 +147,7 @@ collide. Source files are never changed.
 | File | What it is |
 |---|---|
 | [`docs/formats.md`](docs/formats.md) | Core-dump packing, 7-bit text, the date word, and the BACKUP and DUMPER record layouts as the extractor reads them |
-| [`docs/extensions.md`](docs/extensions.md) | The 100 file extensions found on tapes 1, 2 and 4, and what each meant on TOPS-10 and TOPS-20 at UCI and ISI |
+| [`docs/extensions.md`](docs/extensions.md) | The 100 file extensions found on tapes 1, 2 and 4, and what each meant on TOPS-10 and TOPS-20 at UCI |
 | [`docs/tape1-read-log-2010.txt`](docs/tape1-read-log-2010.txt) | Bob Chicko's read log for tape 1 |
 
 ## What came off the tapes
