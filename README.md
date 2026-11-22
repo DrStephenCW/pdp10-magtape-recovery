@@ -3,7 +3,8 @@
 _This project was done with Claude Opus 5.5 Medium Effort guided by Stephen Clarke-Willson. The tapes were read by Bob Chicko of TapeConversions.com._
 
 Six reels of 9-track magnetic tape held Steve Willson's (now Stephen
-Clarke-Willson's) work from UC Irvine and USC/ISI: undergraduate course work on
+Clarke-Willson's) work from UC Irvine Information and Computer Science department (ICS): 
+undergraduate course work on
 the UCI DEC-10, 1981 Ada work on an ISI DEC-20, and his graduate-school Unix
 home directory. In January 2010 Bob Chicko of TapeConversions.com
 (Arlington, Texas), a paid tape-reading service, read all six on an HP 88780 drive at
