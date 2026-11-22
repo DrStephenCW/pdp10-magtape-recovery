@@ -14,7 +14,7 @@ three were in PDP-10 formats, and they sat as raw dumps until 2026.
 This repository is how those three were decoded: a description of the formats,
 the extractor that was written for them, and a RUNOFF-to-Markdown translator
 for the documents that came out. It holds no tape contents. The things found on
-the tapes are published separately (see [What came off the tapes](#what-came-off-the-tapes)).
+the tapes are published separately (see [What came off the tapes](#what-came-off-the-tapes-so-far)).
 
 ## The six tapes
 
